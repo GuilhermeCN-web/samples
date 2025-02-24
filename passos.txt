@@ -1,0 +1,14 @@
+1
+abrir terminal
+2
+abrir cmd
+3
+configurar path(set path=%path%;...caminho jdk/bin)
+4
+cd documents
+5
+code .
+6
+code runner
+7
+set path=%path%;C:\Users\aluno\AppData\Local\Programs\Microsoft VS Code...mudar caminho
